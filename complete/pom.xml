@@ -72,7 +72,7 @@
 					     <directory>${project.basedir}/target</directory>
 					     <includes>
 					       <include>*.jar</include>
-					     <includes>
+					     </includes>
 					   </resource>
 					 </resources>
 				       </deployment>
